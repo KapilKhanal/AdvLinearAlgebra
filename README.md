@@ -16,3 +16,5 @@ Manifolds and Transformation on manifolds
 * distance/symmetrics 
 Lecture 3: 
 Any transformation in space
+
+### Note: Project 1 is titled as project 1
